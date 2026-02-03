@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[22396,["/sarahs-snacks-delight/_next/static/chunks/68bbd974bb93b69b.js","/sarahs-snacks-delight/_next/static/chunks/8e80b65d44e59e65.js"],"default"]
 3:I[4680,["/sarahs-snacks-delight/_next/static/chunks/68bbd974bb93b69b.js","/sarahs-snacks-delight/_next/static/chunks/8e80b65d44e59e65.js"],"default"]
-0:{"buildId":"16ifOjLMf_tZ17L8UE4bT","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"jRTLQxry1EJBD1AzaAsB2","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
